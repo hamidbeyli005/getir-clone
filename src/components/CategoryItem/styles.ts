@@ -23,7 +23,6 @@ export const styles = StyleSheet.create({
     borderRadius: 10,
   },
   categoryName: {
-    fontWeight: 600,
     fontSize: 12,
     color: "#616161",
     marginTop: 4,
