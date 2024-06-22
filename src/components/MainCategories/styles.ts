@@ -2,8 +2,7 @@ import { StyleSheet } from "react-native";
 
 export const styles = StyleSheet.create({
   container: {
-    flex: 1,
-    backgroundColor: "#f6f6f6",
-    marginTop: 50,
+    flexDirection: "row",
+    flexWrap: "wrap",
   },
 });
